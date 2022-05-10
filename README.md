@@ -4,7 +4,7 @@
 <p align="center">
    council
 <p align="center">  
-<img src="https://gpvc.arturio.dev/counci1?v=3">
+<img src="https://komarev.com/ghpvc/?username=counci1&color=grey">
 </p>
 </p>
     <p align="center">
