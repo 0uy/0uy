@@ -4,7 +4,7 @@
 <p align="center">
    council
 <p align="center">  
-<img src="https://gpvc.arturio.dev/counci1">
+<img src="https://gpvc.arturio.dev/counci1?v=1">
 </p>
 </p>
     <p align="center">
