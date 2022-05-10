@@ -17,3 +17,4 @@ Currently listening to Music
 </p>
 <p align="center">
 <a href="https://www.instagram.com/trap.4.jose/" target="_blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" alt="Instagram" width="30"></a>
+<a href="https://twitter.com/trap.4.jose" target="_blank"><img src="https://www.koinsights.com/wp-content/uploads/2020/01/black-and-white-twitter-logo-transparent_100736.png" alt="Twitter" width="30"></a>
