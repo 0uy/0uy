@@ -16,5 +16,7 @@ Currently listening to Music
     <a href="https://discord.gg/yacht">Discord Server</a>
 
 ####
+</p>
+<p align="center">
    
 <a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" alt="Instagram" width="30"></a>
