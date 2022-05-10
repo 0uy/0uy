@@ -14,8 +14,6 @@
 Currently listening to Music
 <p align="center">
     <a href="https://discord.gg/yacht">Discord Server</a>
-
-####
 </p>
 <p align="center">
    
