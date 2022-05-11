@@ -18,4 +18,4 @@ Currently listening to Music
 <p align="center">
 <a href="https://www.instagram.com/counci.1/" target="_blank"><img src="https://media.discordapp.net/attachments/973725219351068733/973730764560687134/unknown.png?width=676&height=676" alt="Instagram" width="30"></a>
 <a href="https://twitter.com/counci1_" target="_blank"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter" width="30"></a>
-<a href="https://www.youtube.com/channel/UC--sP8rGqwvTP0s7M6J_xOQ" target="_blank"><img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" alt="Youtube" width="30"></a>
+<a href="https://www.youtube.com/channel/UC--sP8rGqwvTP0s7M6J_xOQ" target="_blank"><img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="Youtube" width="30"></a>
