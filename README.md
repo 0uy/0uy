@@ -11,7 +11,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/855988626944688159.png"/>
 </p>
 <p align="center">
-Currently Missing Kay
+Currently Sleeping
 <p align="center">
     <a href="https://discord.gg/yacht">Discord Server</a>
 </p>
