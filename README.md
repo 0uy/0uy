@@ -13,7 +13,7 @@
 <p align="center">
 Currently Sleeping
 <p align="center">
-    <a href="https://discord.gg/yacht">Discord Server</a>
+    <a href="https://discord.gg/yachtt">Discord Server</a>
 </p>
 <p align="center">
 <a href="https://www.instagram.com/counci.1/" target="_blank"><img src="https://media.discordapp.net/attachments/973725219351068733/973730764560687134/unknown.png?width=676&height=676" alt="Instagram" width="30"></a>
