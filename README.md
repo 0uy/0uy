@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/924197136818651146/925454234231660664/IMG_4028.jpg?width=534&height=401">
+<img src="https://media.discordapp.net/attachments/924197136818651146/924543026829865021/A9A10C92-F1B4-4B99-BABB-64A829B54F9A.gif?width=375&height=197">
 </p>
 <p align="center">
    death
