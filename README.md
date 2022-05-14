@@ -8,7 +8,7 @@
 </p>
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/575470708369391626.png"/>
+  <img src="https://discord.c99.nl/widget/theme-5/575470708369391626.png"/>
 </p>
 <p align="center">
 Currently Doing Nothing
