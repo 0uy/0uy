@@ -2,13 +2,13 @@
 <img src="https://media.discordapp.net/attachments/924197136818651146/948733573471563796/original.gif?width=400&height=300">
 </p>
 <p align="center">
-   council
+   death
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=counci1&color=grey">
+<img src="https://komarev.com/ghpvc/?username=0uy&color=grey">
 </p>
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/855988626944688159.png"/>
+  <img src="https://discord.c99.nl/widget/theme-1/575470708369391626.png"/>
 </p>
 <p align="center">
 Currently Doing Nothing
