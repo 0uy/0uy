@@ -2,7 +2,7 @@
 <img src="https://media.discordapp.net/attachments/972084009762967604/972465017737871421/pfps-PGICeE.gif?width=480&height=192">
 </p>
 <p align="center">
-   death
+   hateful
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=0uy&color=grey">
 </p>
@@ -13,7 +13,7 @@
 <p align="center">
 Currently Doing Nothing
 <p align="center">
-    <a href="https://discord.gg/yachtt">Discord Server</a>
+    <a href="https://discord.gg/modernwarfare">Discord Server</a>
 </p>
 <p align="center">
 <a href="https://www.instagram.com/luvjzi/" target="_blank"><img src="https://media.discordapp.net/attachments/973725219351068733/973730764560687134/unknown.png?width=676&height=676" alt="Instagram" width="30"></a>
