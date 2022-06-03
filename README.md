@@ -2,13 +2,13 @@
 <img src="https://media.discordapp.net/attachments/972084009762967604/972465017737871421/pfps-PGICeE.gif?width=480&height=192">
 </p>
 <p align="center">
-   hateful
+   script
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=0uy&color=grey">
 </p>
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/575470708369391626.png"/>
+  <img src="https://discord.c99.nl/widget/theme-1/575470708369391626.png"/>
 </p>
 <p align="center">
 Currently Doing Nothing
