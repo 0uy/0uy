@@ -2,7 +2,7 @@
 <img src="https://media.discordapp.net/attachments/972084009762967604/972465017737871421/pfps-PGICeE.gif?width=480&height=192">
 </p>
 <p align="center">
-   script
+   somber
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=0uy&color=grey">
 </p>
@@ -11,13 +11,13 @@
   <img src="https://discord.c99.nl/widget/theme-1/575470708369391626.png"/>
 </p>
 <p align="center">
-Currently Doing Nothing
+probably sleeping
 <p align="center">
     <a href="https://discord.gg/modernwarfare">Discord Server</a>
 </p>
 <p align="center">
-<a href="https://www.instagram.com/luvjzi/" target="_blank"><img src="https://media.discordapp.net/attachments/973725219351068733/973730764560687134/unknown.png?width=676&height=676" alt="Instagram" width="30"></a>
-<a href="https://twitter.com/lonewintrs" target="_blank"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/kxppin/" target="_blank"><img src="https://media.discordapp.net/attachments/973725219351068733/973730764560687134/unknown.png?width=676&height=676" alt="Instagram" width="30"></a>
+<a href="https://twitter.com/lolkxp" target="_blank"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter" width="30"></a>
 <a href="https://www.youtube.com/channel/UCzb4cDwGtYZUb5TkcTSJVhg" target="_blank"><img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="Youtube" width="30"></a>
 
    
