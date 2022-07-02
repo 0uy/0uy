@@ -21,4 +21,4 @@ probably sleeping
 <a href="https://www.youtube.com/channel/UCzb4cDwGtYZUb5TkcTSJVhg" target="_blank"><img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="Youtube" width="30"></a>
 
    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0uy&show_icons=true&theme=dracula&title_color=ff0000&text_color=c5bfbf&hide_border=true&locale=en" alt="0uy" /></p>   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0uy&show_icons=true&theme=dracula&title_color=ff0000&text_color=c5bfbf&hide_border=true&locale=en" alt="w6rd" /></p>   
