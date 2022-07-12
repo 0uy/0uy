@@ -2,7 +2,7 @@
 <img src="https://media.discordapp.net/attachments/972084009762967604/972465017737871421/pfps-PGICeE.gif?width=480&height=192">
 </p>
 <p align="center">
-   somber
+   revenge
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=0uy&color=grey">
 </p>
